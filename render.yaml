@@ -3,6 +3,7 @@ services:
     name: thesis-lab
     runtime: docker
     plan: free
+    region: singapore
     healthCheckPath: /api/health
     envVars:
       - key: FUYAO_API_KEY
