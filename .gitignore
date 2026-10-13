@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.local/
+node_modules/
+__pycache__/
+.venv/
+.pytest_cache/
+frontend/dist/
+*.pyc
+*.zip
+*.mp4
+*.webm

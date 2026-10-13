@@ -1,0 +1,10 @@
+.env
+.env.*
+.git
+.venv
+.local
+frontend/node_modules
+frontend/dist
+docs
+tests
+*.md
